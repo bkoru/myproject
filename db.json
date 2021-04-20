@@ -2,10 +2,24 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "ali"
+    },
+	    {
+      "id": 2,
+      "title": "veli"
+    },
+	    {
+      "id": 3,
+      "title": "ayşe"
+    },    {
+      "id": 4,
+      "title": "fatma"
     }
+	
   ],
   "profile": {
     "name": "typicode"
   }
+  
+
 }
